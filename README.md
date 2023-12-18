@@ -70,19 +70,6 @@ This project aids aspiring startups in gauging success factors, emphasizing loca
 
 
 
-## Statement of Contributions
-
-This project was a collaborative effort with equal contributions from all team members. Major contributions:
-
-
-
-- **Vinesh Kumar Gande:** Data Cleaning, Model Building, EDA
-- **Nikhileshwar Reddy Bommareddy:** Data Cleaning, Model Building, EDA
-
-- **Lahari Boni:** Data Cleaning, EDA, Reporting
-
-- **Sai Akhil Rayapudi:** Data Cleaning, Reporting, Model Building
-
 ## References
 
 
